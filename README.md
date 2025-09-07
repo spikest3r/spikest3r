@@ -14,6 +14,8 @@ Welcome! I'm a developer with 5+ years of experience creating polished and high-
 
 Kotlin · Java · C# · C/C++ · SQL · Python · JavaScript · Dart · Go · HTML
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spikest3r&langs_count=15&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 🚀 Featured Projects
 
 - [Hotpad](https://github.com/spikest3r/Hotpad) (also on SourceForge)
