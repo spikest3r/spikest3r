@@ -12,7 +12,7 @@ Welcome! I'm a developer with 5+ years of experience creating polished and high-
 
 ## 🛠️ Languages
 
-Kotlin · Java · C# · C/C++ · SQL · Python · JavaScript · Dart · Go · HTML
+Kotlin · Java · C# · C/C++ · SQL · Python · JavaScript · Dart · Go · HTML · Haskell · Assembly
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spikest3r&langs_count=15&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -35,6 +35,7 @@ Kotlin · Java · C# · C/C++ · SQL · Python · JavaScript · Dart · Go · HT
 - Aviation: A320 simulator flying, aviation research
 - Chess
 - Math
+- DSLR Photography
 
 ## 🗣️ Languages
 
