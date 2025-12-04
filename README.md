@@ -18,17 +18,20 @@ Kotlin · Java · C# · C/C++ · SQL · Python · JavaScript · Dart · Go · HT
 
 ## 🚀 Featured Projects
 
-- [Hotpad](https://github.com/spikest3r/Hotpad) (also on SourceForge)
+- [Hotpad](https://github.com/spikest3r/Hotpad) (also on SourceForge) [![Download Hotpad](https://img.shields.io/sourceforge/dt/hotpad.svg)](https://sourceforge.net/projects/hotpad/files/latest/download)
 
-  [![Download Hotpad](https://img.shields.io/sourceforge/dt/hotpad.svg)](https://sourceforge.net/projects/hotpad/files/latest/download)
+- [Pomodoro](https://github.com/spikest3r/Pomodoro) [![Download Pomodoro](https://img.shields.io/sourceforge/dw/pomodoro.svg)](https://sourceforge.net/projects/pomodoro/files/latest/download) [![Download Pomodoro](https://img.shields.io/sourceforge/dt/pomodoro.svg)](https://sourceforge.net/projects/pomodoro/files/latest/download)
+
 - [LabEscapeGame](https://github.com/spikest3r/LabEscapeGame) (also on itch.io)
+
+- [Real-time video processing with NVDEC and CUDA](https://github.com/spikest3r/NVDECRealTimeVideoProcessingDemo)
 
 ## 🌐 Where to Find Me
 
-[![Email](https://img.shields.io/badge/Email-oleg0sher@outlook.com-blue?style=flat&logo=gmail)](mailto:oleg0sher@outlook.com)
+[![Email](https://img.shields.io/badge/Email-me@olehsheremeta.com-blue?style=flat&logo=gmail)](mailto:me@olehsheremeta.com)
 [![Discord](https://img.shields.io/badge/Discord-spikest3r-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/1127307720614219857)
 [![Itch.io](https://img.shields.io/badge/itch.io-spikest3r-FA5C5C?style=flat&logo=itchdotio&logoColor=white)](https://spikest3r.itch.io/)
-[![Website](https://img.shields.io/badge/Website-nulldog.xyz-0A0A0A?style=flat&logo=google-chrome&logoColor=white)](https://nulldog.xyz)
+[![Website](https://img.shields.io/badge/Website-olehsheremeta.com-0A0A0A?style=flat&logo=google-chrome&logoColor=white)](https://olehsheremeta.com)
 
 ## 🎯 Hobbies & Interests
 
