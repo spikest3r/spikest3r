@@ -14,17 +14,15 @@ Welcome! I'm a developer with 5+ years of experience creating polished and high-
 
 Kotlin · Java · C# · C/C++ · SQL · Python · JavaScript · Dart · Go · HTML · Haskell · Assembly
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spikest3r&langs_count=15&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ## 🚀 Featured Projects
-
-- [Hotpad](https://github.com/spikest3r/Hotpad) (also on SourceForge) [![Download Hotpad](https://img.shields.io/sourceforge/dt/hotpad.svg)](https://sourceforge.net/projects/hotpad/files/latest/download)
 
 - [Pomodoro](https://github.com/spikest3r/Pomodoro) [![Download Pomodoro](https://img.shields.io/sourceforge/dw/pomodoro.svg)](https://sourceforge.net/projects/pomodoro/files/latest/download) [![Download Pomodoro](https://img.shields.io/sourceforge/dt/pomodoro.svg)](https://sourceforge.net/projects/pomodoro/files/latest/download)
 
 - [LabEscapeGame](https://github.com/spikest3r/LabEscapeGame) (also on itch.io)
 
 - [Real-time video processing with NVDEC and CUDA](https://github.com/spikest3r/NVDECRealTimeVideoProcessingDemo)
+
+- [CUDA Real-time camera effects](https://github.com/spikest3r/CudaCameraEffects)
 
 ## 🌐 Where to Find Me
 
