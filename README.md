@@ -27,7 +27,6 @@ Kotlin · Java · C# · C/C++ · SQL · Python · JavaScript · Dart · Go · HT
 ## 🌐 Where to Find Me
 
 [![Email](https://img.shields.io/badge/Email-me@olehsheremeta.com-blue?style=flat&logo=gmail)](mailto:me@olehsheremeta.com)
-[![Discord](https://img.shields.io/badge/Discord-spikest3r-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/1127307720614219857)
 [![Itch.io](https://img.shields.io/badge/itch.io-spikest3r-FA5C5C?style=flat&logo=itchdotio&logoColor=white)](https://spikest3r.itch.io/)
 [![Website](https://img.shields.io/badge/Website-olehsheremeta.com-0A0A0A?style=flat&logo=google-chrome&logoColor=white)](https://olehsheremeta.com)
 
