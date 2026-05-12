@@ -18,9 +18,9 @@ Kotlin · Java · C# · C/C++ · SQL · Python · JavaScript · Dart · Go · HT
 
 - [Pomodoro](https://github.com/spikest3r/Pomodoro) [![Download Pomodoro](https://img.shields.io/sourceforge/dw/pomodoro.svg)](https://sourceforge.net/projects/pomodoro/files/latest/download) [![Download Pomodoro](https://img.shields.io/sourceforge/dt/pomodoro.svg)](https://sourceforge.net/projects/pomodoro/files/latest/download)
 
-- [LabEscapeGame](https://github.com/spikest3r/LabEscapeGame) (also on itch.io)
+- [VkEngine (Custom game engine)](https://github.com/spikest3r/VulkanEngine)
 
-- [Real-time video processing with NVDEC and CUDA](https://github.com/spikest3r/NVDECRealTimeVideoProcessingDemo)
+- [AI on Android Froyo](https://github.com/spikest3r/GeminiOnFroyo)
 
 - [CUDA Real-time camera effects](https://github.com/spikest3r/CudaCameraEffects)
 
